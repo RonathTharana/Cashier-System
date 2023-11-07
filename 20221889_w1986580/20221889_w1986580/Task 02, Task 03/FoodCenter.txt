@@ -1,0 +1,35 @@
+Last saved at: 2023/07/17 09:17:42
+
+Queue 1 customer details
+
+Customer name: Yudanga Prabhashine
+Number of burgers required: 6
+Customer position in the queue: 1
+
+Queue 2 customer details
+
+Customer name: Ramith Prasanna
+Number of burgers required: 3
+Customer position in the queue: 1
+
+Customer name: C C
+Number of burgers required: 3
+Customer position in the queue: 2
+
+Queue 3 customer details
+
+Customer name: Sanula Jr
+Number of burgers required: 1
+Customer position in the queue: 1
+
+Customer name: Isanka R
+Number of burgers required: 3
+Customer position in the queue: 2
+
+Customer name: Thaveesha P
+Number of burgers required: 4
+Customer position in the queue: 3
+
+Customer name: D D
+Number of burgers required: 4
+Customer position in the queue: 4

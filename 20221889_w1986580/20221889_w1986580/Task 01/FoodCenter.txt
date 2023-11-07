@@ -1,0 +1,22 @@
+Last saved at: 2023/07/17 08:53:00
+
+Customer name: Yudanga
+Queue no: 1
+Position no: 1
+
+Customer name: Ramith
+Queue no: 1
+Position no: 2
+
+Customer name: Jineth
+Queue no: 2
+Position no: 1
+
+Customer name: Ronath
+Queue no: 3
+Position no: 1
+
+Customer name: R
+Queue no: 3
+Position no: 2
+
